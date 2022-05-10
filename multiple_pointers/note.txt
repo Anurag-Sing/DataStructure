@@ -1,0 +1,2 @@
+Creatin pointers or value that correspond to index or position and move
+towards beginning, middle or end based on certain condition

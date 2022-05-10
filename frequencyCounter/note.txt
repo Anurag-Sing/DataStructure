@@ -1,0 +1,4 @@
+This approach is used mainly when there is comparison between
+two array with same no of elements
+Or two string with same no of letters
+Please look at example
